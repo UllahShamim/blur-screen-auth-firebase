@@ -14,3 +14,5 @@
 };
 
 // Initialize Firebase
+
+// notice how the import and initialisation has been removed from here
